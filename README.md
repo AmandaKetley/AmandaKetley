@@ -1,9 +1,9 @@
 Olá, sou Amanda Ketley <3
 
  <div>
-  <a href="https://github.com/amandaketley">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amandaketley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaketley&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/AmandaKetley">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaKetley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaKetley&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div> 
