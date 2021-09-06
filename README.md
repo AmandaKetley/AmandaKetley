@@ -24,6 +24,7 @@
  <a href = "mailto:amandaketley.akrc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%CD853F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
    ![Snake animation](https://github.com/AmandaKetley/AmandaKetley/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
  
 
