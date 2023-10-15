@@ -1,10 +1,9 @@
 ![Texto Alternativo](logo2.png)
 
-👩‍💻Olá, mundo! Sou Amanda Ketley, formada em Análise e Desenvolvimento de Sistemas📚🎮💡
 
 <div>
  
- ## HABILIDADES
+> ## HABILIDADES
  
    <img align="center" alt="Rafa-Js"  height="75" width="75" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
    <img align="center" alt="Rafa-Js"  height="75" width="75" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png"/>
@@ -17,7 +16,7 @@
 
 <div> 
  
-## CONTATO:
+> ## CONTATO:
 
  <a href="https://www.linkedin.com/in/amanda-rodrigues-3b2a9b1b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/mands_Ketley" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
